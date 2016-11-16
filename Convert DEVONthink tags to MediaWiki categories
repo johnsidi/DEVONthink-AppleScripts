@@ -1,5 +1,7 @@
 --2011-06-18
 --http://organognosi.blogspot.com
+--2016-11-16 tested successfully
+
 tell application "DEVONthink Pro"
 	set thisSelection to the selection
 	if thisSelection is {} then error "Please select something"
