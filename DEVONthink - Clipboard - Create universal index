@@ -1,3 +1,4 @@
+'''
 --http://www.organognosi.com
 -- 2012-09-30
 --it matches exact phrases using quotes and single words
@@ -122,3 +123,4 @@ on replaceText(thisText, searchString, replacementString)
 	set AppleScript's text item delimiters to {""}
 	return thisText
 end replaceText
+'''
