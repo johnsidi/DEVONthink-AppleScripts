@@ -1,6 +1,7 @@
---2011-06-18
---http://organognosi.blogspot.com
+--https://johnsidi.com/convert-devonthink-tags-to-mediawiki-categories/
 --2016-11-16 tested successfully
+--http://organognosi.blogspot.com
+--2011-06-18
 
 tell application "DEVONthink Pro"
 	set thisSelection to the selection
