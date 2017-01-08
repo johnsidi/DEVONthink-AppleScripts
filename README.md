@@ -1,2 +1,2 @@
 # DEVONthink-AppleScripts
-I will post here all my AppleScripts about DEVONthink 
+I will post here my AppleScripts for DEVONthink.
