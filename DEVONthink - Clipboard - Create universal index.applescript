@@ -1,6 +1,4 @@
-
-```applescript
---http://www.organognosi.com
+--http://www.johnsidi.com
 -- 2012-09-30
 --it matches exact phrases using quotes and single words
 --the locked files in DEVONthink are excluded from the search
@@ -123,5 +121,4 @@ on replaceText(thisText, searchString, replacementString)
 	set thisText to the itemList as string
 	set AppleScript's text item delimiters to {""}
 	return thisText
-end replaceText
-```
+end replaceTex
